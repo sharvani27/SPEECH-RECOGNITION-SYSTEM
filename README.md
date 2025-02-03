@@ -129,5 +129,7 @@ Gradio Interface: The tool uses a Gradio interface where users can submit the au
 UI Customization: The background color is set to lilac, and the submit button is purple with a hover effect.
 Result:
 When the user uploads an audio file and clicks submit, the audio is processed and transcribed into text. Any errors, such as issues with the audio quality or speech recognition, will return an appropriate message.
+
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/2059ce9a-5fff-4abb-b960-9508c2e60455)
